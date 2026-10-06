@@ -1,3 +1,7 @@
 # Dataset lokal, termasuk saat dijalankan dari subfolder notebook atau Python.
 data/
 imagenet/
+
+# Tiny ImageNet: folder hasil ekstraksi dan arsip unduhan.
+tiny-imagenet-200/
+tiny-imagenet-200.zip
