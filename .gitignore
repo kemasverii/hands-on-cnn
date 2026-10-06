@@ -1,0 +1,3 @@
+# Dataset lokal, termasuk saat dijalankan dari subfolder notebook atau Python.
+data/
+imagenet/
