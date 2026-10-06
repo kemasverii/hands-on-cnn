@@ -4,11 +4,11 @@ Setiap file dapat dijalankan secara mandiri.
 
 ## CIFAR-10
 File:
-- 01_lenet_cifar10.py
-- 03_vgg_cifar10.py
-- 05_resnet_cifar10.py
-- 07_mobilenet_cifar10.py
-- 09_convnext_cifar10.py
+- 01_lenet_cifar10.ipynb
+- 03_vgg_cifar10.ipynb
+- 05_resnet_cifar10i.ipynb
+- 07_mobilenet_cifar10.ipynb
+- 09_convnext_cifar10.ipynb
 
 Dataset akan di-download otomatis.
 Default:
@@ -17,15 +17,13 @@ Default:
 - epoch: 5
 - image size: 64x64
 
-Contoh:
-python 05_resnet_cifar10.py
 
 ## ImageNet subset
 File:
-- 02_alexnet_imagenet.py
-- 04_googlenet_imagenet.py
-- 06_densenet_imagenet.py
-- 08_efficientnet_imagenet.py
+- 02_alexnet_imagenet.ipynb
+- 04_googlenet_imagenet.ipynb
+- 06_densenet_imagenet.ipynb
+- 08_efficientnet_imagenet.ipynb
 
 Gunakan struktur:
 imagenet/
@@ -43,5 +41,3 @@ Default:
 - epoch: 5
 - image size: 128x128
 
-Contoh:
-python 08_efficientnet_imagenet.py
